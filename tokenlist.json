@@ -1,0 +1,40 @@
+{
+  "name": "ConfluxRIVE",
+  "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacfesxknt40p8xc15smrm0bhf2cj9gngd2usu2sf0c.jpeg",
+  "keywords": [
+    "ConfluxRIVE",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1030,
+      "address": "0x8a474d2b7eaccf4c57db94d558272e048f99661e",
+      "name": "ConfluxRIVE",
+      "symbol": "RIVE",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacfesxknt40p8xc15smrm0bhf2cj9gngd2usu2sf0c.jpeg"
+    };
+    {
+      "chainId": 1030,
+      "address": "0xfe97e85d13abd9c1c33384e796f10b73905637ce",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
+    };
+    {
+      "chainId": 1030,
+      "address": "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaby0h59rbm4a85b7ttrekjc736mdtvcdsjy17ezbn3.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
