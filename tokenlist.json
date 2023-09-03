@@ -14,7 +14,7 @@
       "symbol": "RIVE",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacfesxknt40p8xc15smrm0bhf2cj9gngd2usu2sf0c.jpeg"
-    };
+    },
     {
       "chainId": 1030,
       "address": "0xfe97e85d13abd9c1c33384e796f10b73905637ce",
@@ -22,7 +22,7 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
-    };
+    },
     {
       "chainId": 1030,
       "address": "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372",
